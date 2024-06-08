@@ -93,7 +93,7 @@ nav{
 }
 /* navigation-fixed */
 .nav-fixed{
-    background-color: #fff;
+    background-color: #000000;
     box-shadow: 2px 2px 10px #bbb;
 }
 .nav-fixed .menu-par{
@@ -106,6 +106,7 @@ nav{
 .nav-fixed ul li a{
     color: #00a8b4;
 }
+
 
 header{
     width: 100%;
